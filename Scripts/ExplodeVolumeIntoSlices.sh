@@ -19,3 +19,13 @@
 # already perfectly aligned.
 #
 #
+# Example of the same command in Asif's laptop
+#
+
+cd C:\Asif\work\projects\birn\smartatlas\itk\tools\INCF GIT\ImageReconstruction Bin\Release>
+
+
+ImageReadImageSeriesWrite.exe C:\Asif\work\projects\birn\smartatlas\i
+\tools\images\canon_hist.nii.gz C:\Asif\work\projects\birn\smartatlas\itk\tools\images\Output\slices\canon_hist png
+
+
