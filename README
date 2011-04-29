@@ -1,0 +1,21 @@
+Digital Brain Atlasing
+
+Digital brain atlases are essential tools in neuroscience research. They
+function as references and analytical tools, and provide stable integration
+frameworks as a basis for investigations of normal and abnormal brain structure
+and function. Web-accessible brain atlases and spatial indices promise to
+evolve into powerful tools for dynamic, multidimensional modes of scientific
+interaction. The key aim of this INCF program is to coordinate and improve the
+impact of atlasing projects, with a focus on the rodent brain.  Reference Data
+- Waxholm Space
+
+Waxholm Space is a coordinate-based reference space for the mapping and
+registration of neuroanatomical data in the mouse brain. Image volumes
+representing the canonical Waxholm Space (WHS) mouse brain can be downloaded
+from the INCF Software Center. Servers hosting the Waxholm Space translation
+services, which will enable scientists to register their own mouse data to the
+standard Waxholm Space coordinates as well as provide translations among other
+mouse brain atlases, have been set up the Royal Institute of Technology's
+Supercomputer Center in Stockholm.
+
+http://www.incf.org/core/programs/atlasing
