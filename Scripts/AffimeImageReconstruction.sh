@@ -18,3 +18,10 @@
 #  the functionality of stacking a set of 2D slices into a 3D volume dataset. The output
 #  of the command above should simply reproduce the original canon_hist.nii.gz dataset.
 #
+
+cd C:\Asif\work\projects\birn\smartatlas\itk\tools\INCF GIT\ImageReconstruction Bin\Release>
+
+AffineImageReconstruction.exe "C:\Asif\work\projects\birn\smartatlas\
+k\tools\images\output\slices\canon_hist%03d.png" 0 511 0.0215 0.0215 0.0215 C:\Asif\work\projects\birn\smartatlas\itk\tools\images\Output\2dvolume\canon_hist_
+constructed.nii.gz
+
